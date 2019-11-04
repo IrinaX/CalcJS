@@ -1,0 +1,15 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  user-select: none; }
+
+.row {
+  justify-content: center; }
+
+.text-area {
+  font-size: 40px; }
+
+.btn {
+  border-radius: 0; }
+
+/*# sourceMappingURL=style.css.map */
